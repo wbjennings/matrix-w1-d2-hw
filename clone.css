@@ -1,0 +1,128 @@
+#mLogo {
+    background-color: gray;
+    height: 531x;
+    width: 103px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    color: gray;
+}
+
+#signInBox {
+    border: 1px solid gray;
+    width: 500px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border-radius: 2.5px;
+}
+
+#createAcc {
+    width: 500px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+#signIn {
+    margin-top: 0px;
+    margin-left: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#email {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+
+#signForm {
+    height: 35px;
+    width: 450px;
+    margin-left: 20px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+#passForm {
+    height: 35px;
+    width: 450px;
+    margin-left: 20px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+#pass {
+    margin-left: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#rect {
+    width: 125px;
+    float: left;
+}
+
+#ForgotP {
+    text-decoration: none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 325px;
+    margin-bottom: 100px;
+}
+
+#formLabel {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+
+#passLabel {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+
+#continue {
+    width: 458px;
+    height: 35px;
+    margin-left: 20px;
+    margin-top: 30px;
+    background-color: #ffcc00;
+    border: 1px solid gray;
+    border-radius: 2.5px;
+    margin-bottom: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#help {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    margin-left: 40px;
+}
+
+#createMe {
+    background-color: lightgrey;
+    width: 458px;
+    border: 1px solid gray;
+    height: 35px;
+    margin-left: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+hr {
+    width: 100px;
+    align: left;
+}
+
+#hrBox {
+    width: 458px;
+    height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#new {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
